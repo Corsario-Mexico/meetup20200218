@@ -5,6 +5,8 @@
 Grupo de Usuarios de AWS Ciudad de México  
 2020-02-18
 
+<https://github.com/Corsario-Mexico/meetup20200218>
+
 ## AWS CDK Workshop
 
 <https://cdkworkshop.com/>
